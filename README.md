@@ -27,7 +27,8 @@ I should get (20) out of 20 on this assignment.
 
 ## Self-Reflection:
 
+This assignement really layed out the ground rule for the course and I enjoy the workflow we will have for class
 
 ### How long it took me to finish this?
-
+1-2 hours
 -----------------------
